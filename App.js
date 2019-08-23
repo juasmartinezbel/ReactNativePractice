@@ -34,6 +34,7 @@ class App extends Component{
         </Text>
         {/*Is not Uri, is Url
          Don't try to publish a picture without Style
+         Styleee
         */}
         <Image source={{
           uri: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/DavidBowieScaryMonstersCover.jpg/220px-DavidBowieScaryMonstersCover.jpg"
